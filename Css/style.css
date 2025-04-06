@@ -55,7 +55,8 @@ body {
 .hero {
     height: 100vh;
     background-image: url("../Images/Home.jpg");
-    background-size: 105%;
+    background-size: cover;
+    background-position: cover;
     display: flex;
     align-items: center;
     justify-content: center;
